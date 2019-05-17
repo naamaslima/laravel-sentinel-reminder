@@ -4,6 +4,8 @@ Este é um simples exemplo de uma estrutura para redefinição de senha utilizan
 
 o Laravel fornece métodos convenientes para enviar lembretes de senha e executar redefinições de senha. Mas se você está utilizando o Sentinel como gerenciador de autenticação e autorização de usuários, seria interessante a utilização das classes do Sentinel para o gerenciamento completo dos usuários.
 
+Neste repositório estão as views, controller e routes. Copie para seu projeto e costumize se necessário.
+
 ## Reminder
 
 A classe Reminder permite gerenciar lembretes(redefinição de senha) através do Sentinel.
